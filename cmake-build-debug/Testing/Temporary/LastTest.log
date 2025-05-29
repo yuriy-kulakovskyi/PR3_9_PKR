@@ -1,0 +1,30 @@
+Start testing: May 29 09:15 EEST
+----------------------------------------------------------
+1/1 Testing: FindFirstMinTest.EmptyTree
+1/1 Test: FindFirstMinTest.EmptyTree
+Command: "/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_9/cmake-build-debug/PR3_9_tests" "--gtest_filter=FindFirstMinTest.EmptyTree" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_9/cmake-build-debug
+"FindFirstMinTest.EmptyTree" start time: May 29 09:15 EEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_9/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = FindFirstMinTest.EmptyTree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FindFirstMinTest
+[ RUN      ] FindFirstMinTest.EmptyTree
+[       OK ] FindFirstMinTest.EmptyTree (0 ms)
+[----------] 1 test from FindFirstMinTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FindFirstMinTest.EmptyTree" end time: May 29 09:15 EEST
+"FindFirstMinTest.EmptyTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 29 09:15 EEST

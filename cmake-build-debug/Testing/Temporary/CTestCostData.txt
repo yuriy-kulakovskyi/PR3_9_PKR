@@ -1,0 +1,2 @@
+FindFirstMinTest.EmptyTree 1 0.00471971
+---

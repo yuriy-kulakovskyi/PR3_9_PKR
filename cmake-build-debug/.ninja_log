@@ -1,0 +1,17 @@
+# ninja log v6
+3	579	1748499111861767530	CMakeFiles/PR3_9.dir/functions/functions.cpp.o	6cccdafc26388cea
+5	464	1748499126922489428	CMakeFiles/PR3_9.dir/main.cpp.o	9cafabcbaaf9d047
+464	591	1748499127381672701	PR3_9	8eda204a82a75451
+7	731	1748499313055970791	CMakeFiles/PR3_9_tests.dir/functions/functions.cpp.o	c258c72d509ac9c7
+6	880	1748499313055554431	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	c441d171ce574a8a
+7	893	1748499313055797047	CMakeFiles/PR3_9_tests.dir/tests/tests.cpp.o	5dbe4dcd5dcdf2a5
+7	957	1748499313056110077	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	a9e14d97a2002bf1
+6	1283	1748499313055356646	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	4395ccf1d146e083
+5	1901	1748499313054319766	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	8b7efda2cd38505f
+1901	1972	1748499314950133369	lib/libgtest.a	b51b69e6de22023b
+1972	1992	1748499315021116203	lib/libgtest_main.a	ddd85a377c936fa9
+1972	1998	1748499315020921210	lib/libgmock.a	c8c98fe986cb389b
+1998	2017	1748499315046959320	lib/libgmock_main.a	c7b38932d055d06e
+1992	2551	1748499315598557785	PR3_9_tests	1bd7166be0897289
+1992	2551	1748499315598557785	PR3_9_tests[1]_tests.cmake	1bd7166be0897289
+1992	2551	1748499315598557785	/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_9/cmake-build-debug/PR3_9_tests[1]_tests.cmake	1bd7166be0897289
